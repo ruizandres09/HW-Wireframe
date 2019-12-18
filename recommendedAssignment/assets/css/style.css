@@ -1,0 +1,45 @@
+.topBar{
+    margin:0px;
+    padding: 0px;
+    background-color:yellow;
+    border: solid;
+    
+}
+
+header{
+    background-color:#4aaaa5;
+    color: whitesmoke;
+    float: left;
+}
+a,ul{
+    
+   text-decoration: none;
+    list-style: none;
+    margin:0 ;
+    padding:0; 
+}
+
+li{
+    display: inline;
+   
+}
+
+body{
+    background-image: url(../images/email-pattern.png);
+}
+.content{
+    width: 960px;
+    margin: 0 auto;
+    background-color:white ;
+    height: 500px;
+}
+img{
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
